@@ -1,0 +1,10 @@
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\bin\Debug\WebTools.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\bin\Debug\WebTools.pdb
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\bin\Debug\Alx.Web.Screenshot.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\obj\Debug\WebTools.csprojAssemblyReference.cache
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\obj\Debug\WebTools.csproj.CoreCompileInputs.cache
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\obj\Debug\WebTools.csproj.CopyComplete
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\obj\Debug\WebTools.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\obj\Debug\WebTools.pdb
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\bin\Debug\Freezer.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebTools\bin\Debug\Freezer.xml

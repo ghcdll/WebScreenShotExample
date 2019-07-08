@@ -1,0 +1,16 @@
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\WebScreenShot.exe.config
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\WebScreenShot.exe
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\WebScreenShot.pdb
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\WebTools.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\Alx.Web.Screenshot.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\WebTools.pdb
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.csprojAssemblyReference.cache
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.FromTest.resources
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.Properties.Resources.resources
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.csproj.GenerateResource.cache
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.csproj.CoreCompileInputs.cache
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.csproj.CopyComplete
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.exe
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\obj\Debug\WebScreenShot.pdb
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\Freezer.dll
+C:\DATA\DEV\WebScreenShot\WebScreenShot\WebScreenShot\bin\Debug\Freezer.xml
